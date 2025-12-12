@@ -63,7 +63,7 @@
   .highlights-description,
   .comparison-description,
   .interpretability-description {
-    font-size: var(--font-size-base);
+    font-size: var(--font-size-sm);
     padding: 0 var(--spacing-lg);
   }
 }
