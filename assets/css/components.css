@@ -67,6 +67,11 @@
   line-height: 1.3;
 }
 
+.hero-title-pub {
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.95);
+}
+
 .hero-subtitle {
   font-size: var(--font-size-lg);
   color: rgba(255, 255, 255, 0.8);
@@ -281,6 +286,10 @@
   .hero-title-sub {
     font-size: 1.25rem;
   }
+
+  .hero-title-pub {
+    font-size: 1rem;
+}
   
   .hero-video-container {
     max-width: 100%;
